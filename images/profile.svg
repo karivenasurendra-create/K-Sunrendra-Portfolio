@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="100%" height="100%" rx="24" fill="#0f1724" />
+  <g fill="#ffffff22">
+    <circle cx="300" cy="220" r="110" />
+    <rect x="180" y="360" width="240" height="160" rx="18" />
+  </g>
+  <text x="50%" y="92%" text-anchor="middle" fill="#94A3B8" font-family="Poppins, sans-serif" font-size="20">Profile Placeholder</text>
+</svg>
