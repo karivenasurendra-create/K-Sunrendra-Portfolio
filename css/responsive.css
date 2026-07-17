@@ -1,0 +1,5 @@
+/* Responsive overrides */
+@media (max-width:480px){
+  .hero h1{font-size:22px}
+  .skill-circle{width:90px;height:90px}
+}
