@@ -3,7 +3,7 @@ AOS.init({duration:800,easing:'ease-out-cubic',once:true});
 
 // Typed.js for roles
 if(window.Typed){
-  new Typed('#typed',{strings:["AutoCAD Expert","Revit BIM Modeler","Civil Engineer","Structural Detailer"],typeSpeed:60,backSpeed:30,backDelay:1600,loop:true});
+  new Typed('#typed',{strings:["AutoCAD","Revit BIM Modeler","Civil Engineer","Tekla Modular"],typeSpeed:60,backSpeed:30,backDelay:1600,loop:true});
 }
 
 // Particles.js simple config
